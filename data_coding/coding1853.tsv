@@ -1,0 +1,36 @@
+coding	meaning
+0	Null data
+1	nasal
+2	nose and throat
+3	serum
+4	swab - nos
+5	upper respiratory tract
+6	bronchial
+7	endotracheal aspirate
+8	mouth
+9	nasopharyngeal aspirate
+10	nose
+11	npa
+12	pharyngeal
+13	skin-swab-nos
+14	sputum
+15	throat
+16	tissue
+17	trachea
+18	unassigned specimen
+19	unknown
+20	bal
+21	csf
+22	lower respiratory tract
+23	rectum
+24	alveolar lavage
+25	endotracheal secretions
+26	skin/wound
+27	ascitic fluid
+28	blood
+29	nose-throat-perineum
+30	eye
+31	nasopharyngeal swab
+32	pericardial fluid
+33	fluid - nos
+34	upper genital tract

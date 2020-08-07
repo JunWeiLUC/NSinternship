@@ -1,0 +1,14 @@
+coding	meaning
+0	Null requesting organisation data
+1	hospital inpatient
+2	not found
+3	hospital outpatient
+4	healthcare worker testing
+5	hospital a&e
+6	unknown
+7	general practitioner
+8	environmental health officer
+9	care home
+10	genito-urinary medicine dept.
+11	occupational health dept.
+12	other
