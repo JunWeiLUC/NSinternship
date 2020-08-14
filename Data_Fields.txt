@@ -1,0 +1,10 @@
+Data-Field 1548 Variation in diet
+
+Data-Field 22502 Cough on most days
+http://biobank.ndph.ox.ac.uk/ukb/label.cgi?id=132
+
+Data-Field 22601 Job coding
+http://biobank.ndph.ox.ac.uk/ukb/field.cgi?id=22601
+ 
+Category 150 Home locations
+http://biobank.ndph.ox.ac.uk/ukb/label.cgi?id=150
