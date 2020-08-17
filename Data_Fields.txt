@@ -8,3 +8,31 @@ http://biobank.ndph.ox.ac.uk/ukb/field.cgi?id=22601
  
 Category 150 Home locations
 http://biobank.ndph.ox.ac.uk/ukb/label.cgi?id=150
+
+22700	Date first recorded at location
+34	Year of birth	Baseline characteristics
+52	Month of birth	Baseline characteristics
+21000	Ethnic background	Ethnicity 
+31	Sex	Baseline characteristics
+22001	Genetic sex	Genotyping process and sample QC
+6138	Qualifications	Education
+189	Townsend deprivation index at recruitment	Baseline characteristics
+21001	Body mass index (BMI)	Body size measures
+4079	Diastolic blood pressure, automated reading
+94	Diastolic blood pressure, manual reading
+4080	Systolic blood pressure, automated reading
+93	Systolic blood pressure, manual reading
+22038	MET minutes per week for moderate activity	MET Scores  
+22039	MET minutes per week for vigorous activity	MET Scores  
+22037	MET minutes per week for walking	MET Scores  
+22040	Summed MET minutes per week for all activity	MET Scores
+1239	Current tobacco smoking	Smoking
+20116	Smoking status	Smoking 
+20117	Alcohol drinker status	Alcohol  
+20084	Vitamin and/or mineral supplement use	Vitamin/mineral supplements yesterday  
+100013	Vitamin B12	Estimated nutrients yesterday  
+100012	Vitamin B6	Estimated nutrients yesterday  
+100015	Vitamin C	Estimated nutrients yesterday  
+100021	Vitamin D	Estimated nutrients yesterday  
+100025	Vitamin E	Estimated nutrients yesterday  
+104670	Vitamin supplement user	Vitamin/mineral supplements yesterday                
